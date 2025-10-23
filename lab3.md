@@ -64,8 +64,5 @@ This document summarizes the WHOIS and DNS information collected for `github.com
 - Do **not** perform unauthorized scans or intrusive testing on production domains — this summary is for documentation and learning purposes only.
 
 ---
-<img width="1366" height="728" alt="github sc" src="https://github.com/user-attachments/assets/7abc4c26-d7dc-4b1d-9a84-143107fc5518" />
-<img width="1366" height="728" alt="github2" src="https://github.com/user-attachments/assets/ac9b8e79-8ffc-4c24-99fc-ec2d7930e462" />
-<img width="1366" height="728" alt="github3" src="https://github.com/user-attachments/assets/792ea0a8-0c77-450d-b38e-21b441fd3f39" />
-<img width="1366" height="410" alt="github4" src="https://github.com/user-attachments/assets/6b1b644c-aade-4d22-8016-19b42c9701a5" />
+
 
